@@ -1,5 +1,7 @@
 This project is for Micro Processor Final  Assignment
 
+period: 2017.10~2017.12
+
 Title: Vending machine using Ultrasonic sensor
 
 Micro Processor: Atmega128
